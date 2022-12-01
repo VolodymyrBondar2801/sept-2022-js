@@ -77,18 +77,24 @@
 // - створити функцію яка приймає масив об'єктів з наступними полями id,name,age , та виводить їх в документ.
 // Для кожного об'єкту окремий блок.
 
-const arr = [{
-    id: 1,
-    name: vasya,
-    age: 21
-},
-{
-    id: 1,
-    name: vasya,
-    age:32
-}
-];
-
+// const arr = [{
+//     id: 1,
+//     name: 'vasya',
+//     age: 21
+// },
+// {
+//     id: 1,
+//     name: 'petya',
+//     age:32
+// }
+// ];
+//
+// let objArr = function (array) {
+//     for (const item of array) {
+//         document.write(`<div> ${item.name} -- ${item.age}</div>`)
+//     }
+// };
+// objArr(arr);
 
 // - створити функцію яка повертає найменьше число з масиву
 
