@@ -69,7 +69,8 @@
       <workItem from="1668526679384" duration="1700000" />
       <workItem from="1669310743257" duration="11000" />
       <workItem from="1669310807473" duration="938000" />
-      <workItem from="1669893784894" duration="6566000" />
+      <workItem from="1669893784894" duration="6875000" />
+      <workItem from="1670165622530" duration="1630000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1_hw1">
       <created>1667322982835</created>
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669907027260</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lesson5_hw5">
+      <created>1669911657954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669911657954</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +144,18 @@
     <MESSAGE value="lesson4_hw4" />
     <MESSAGE value="lesson5_hw5" />
     <option name="LAST_COMMIT_MESSAGE" value="lesson5_hw5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lesson5/main.js</url>
+          <line>125</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
